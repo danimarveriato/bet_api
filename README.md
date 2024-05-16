@@ -1,5 +1,5 @@
 # API REST .NET 8 e Swagger
-O projeto Bet API é uma API REST desenvolvida para implementação na oficina prática sobre programação em .NET na Tech Week 2024 (semana acadêmica) do curso Superior de Tecnologia em Sistemas para Internet do Instituto Federal Farroupilha - Campus Panambi.
+O projeto Bet API é uma API REST desenvolvida para implementação na oficina prática sobre programação em .NET ministrada por mim na Tech Week 2024 do curso Superior de Tecnologia em Sistemas para Internet do Instituto Federal Farroupilha - Campus Panambi.
 
 Nesta API, é implementada um CRUD utilizando a linguagem de programação .NET 8 e o PostgreSQL 16 como banco de dados. O projeto também inclui testes e documentação da API utilizando o Swagger.
 
